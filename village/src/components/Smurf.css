@@ -1,0 +1,30 @@
+.Smurf {
+    width: 100%;
+    background-color: #4f8bea;
+    margin: 10% 0;
+    opacity: 0.8;
+}
+
+.Smurf:hover {
+    opacity: 1.0;
+    font-size: 20px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.Smurfs {
+    margin: 0 auto;
+    width: 750px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    width: 100%;
+}
+
+ul {
+    width: 750px;
+}
